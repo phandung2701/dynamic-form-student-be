@@ -11,17 +11,23 @@ module.exports = {
       type: "string",
     },
 
-    columns: {
+    form: {
       type: "json",
     },
-    rows: {
+    table: {
       type: "json",
     },
-    inputField: {
-      type: "json",
-    },
-    selectField: {
-      type: "json",
-    },
+    // columns: {
+    //   type: "json",
+    // },
+    // rows: {
+    //   type: "json",
+    // },
+    // inputField: {
+    //   type: "json",
+    // },
+    // selectField: {
+    //   type: "json",
+    // },
   },
 };
